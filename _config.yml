@@ -1,9 +1,9 @@
-name: Tunnel Goons
+name: Highland Paranormal Society Zine Month
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 
 plugins:
   - jekyll-feed
-title: Tunnel Goons blog
-description: Tunnel Goons TTRPG
+title: Zine Month Updates
+description: Updates
 author: Nate Treme
