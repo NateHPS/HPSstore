@@ -1,4 +1,4 @@
-<title>Tunnel Goons Blog</title>
+<title>HPS Zine Month Updates</title>
 	<link href="http://natehps.github.io/blog/atom.xml" rel="self"/>
 	<link href="http://natehps.github.io/blog"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
