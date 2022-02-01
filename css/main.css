@@ -96,12 +96,12 @@ button {
   border: none;
   color: #fff;
   text-align: center;
-  font-size: 32px;
+  font-size: 20px;
   padding: 16px;
-  width: 220px;
+  width: 200px;
   transition: all 0.5s;
   cursor: pointer;
-  margin: 36px;
+  margin: 22px;
   box-shadow: 0 10px 20px -8px rgba(0, 0, 0,.7);
 }
 
