@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "A Tunnel Goons Website"
-date: 2020-03-23
+title: "Zine Month Kick-Off"
+date: 2022-01-31
 ---
 
-I made a Tunnel Goons website.
+Zine Month
