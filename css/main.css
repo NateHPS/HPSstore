@@ -119,12 +119,13 @@ button:after {
   top: 14px;
   right: -20px;
   transition: 0.5s;
-background-color: #cb5323;
 }
 
 button:hover{
   padding-right: 24px;
   padding-left:8px;
+    background-color: #cb5323;
+  box-shadow: inset 6.5em 0 0 0 var(--hover);
 }
 
 button:hover:after {
