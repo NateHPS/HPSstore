@@ -4,7 +4,11 @@ body {
     width: 70%;
     background-image: url("images/blugrid.png");
 }
+
+header {
+float: right;
 }
+
 nav ul, footer ul {
     padding: 0px;
     list-style: none;
