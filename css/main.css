@@ -1,0 +1,77 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 60px auto;
+    width: 70%;
+}
+nav ul, footer ul {
+    padding: 0px;
+    list-style: none;
+}
+nav ul li, footer ul li {
+    font-family: 'Roboto', sans-serif;
+    display: inline;
+    margin-right: 20px;
+    font-size: 1.5em;
+}
+
+a {
+    text-decoration: none;
+    color: #999;
+}
+a:hover {
+    text-decoration: underline;
+}
+h1 {
+    font-size: 4em;
+    font-family: 'Libre Baskerville', serif;
+    font-weight: 700;
+}
+h3 {
+    font-size: 1.5em;
+     line-height: 1em;
+    font-family: 'Libre Baskerville', serif;
+    font-weight: 400;
+    font-style: italic;
+    color: #000000;
+
+}
+
+p {
+    font-size: 1.5em;
+    line-height: 1.4em;
+    color: #333;
+}
+
+ol li {
+    font-size: 1.5em;
+    line-height: 1.4em;
+    color: #333;
+}
+
+footer {
+    border-top: 1px solid #d5d5d5;  
+}
+
+ul.posts { 
+    font-family: 'Libre Baskerville', serif;
+    margin: 20px auto 40px; 
+    font-size: 1.5em;
+}
+
+ul.posts li {
+    font-family: 'Libre Baskerville', serif;
+    list-style: none;
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+img {
+  max-width: 50%;
+  height: auto;
+  float: right;
+  clear: left;
+}
