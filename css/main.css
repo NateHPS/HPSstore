@@ -92,7 +92,7 @@ img {
 
 button {
   border-radius: 4px;
-  background-color: #5ca1e1;
+  background-color: #f05323;
   border: none;
   color: #fff;
   text-align: center;
@@ -119,6 +119,7 @@ button:after {
   top: 14px;
   right: -20px;
   transition: 0.5s;
+background-color: #cb5323;
 }
 
 button:hover{
