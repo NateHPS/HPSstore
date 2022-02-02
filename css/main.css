@@ -130,3 +130,7 @@ button:hover:after {
   opacity: 1;
   right: 10px;
 }
+iframe
+{
+width: 70%;
+}
