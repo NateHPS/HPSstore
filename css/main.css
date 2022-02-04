@@ -90,6 +90,13 @@ img {
   clear: left;
 }
 
+.aside {
+  max-width: 50%;
+  height: auto;
+  float: left;
+  clear: right;
+}
+
 button {
   border-radius: 4px;
   background-color: #f05323;
