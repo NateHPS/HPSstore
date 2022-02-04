@@ -90,6 +90,10 @@ img {
   clear: left;
 }
 
+.aside {
+  color: #9999;
+}
+
 button {
   border-radius: 4px;
   background-color: #f05323;
