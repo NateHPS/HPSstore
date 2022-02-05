@@ -66,6 +66,8 @@ blockquote {
     padding-right: 20px;
     padding-top: 20px;
     padding-bottom: 20px;
+     float: right;
+  clear: left;
 }
 
 ol li {
