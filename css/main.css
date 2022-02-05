@@ -61,7 +61,8 @@ blockquote {
     line-height: 1.4em;
     color: #000000;
     background: border-box #cb5323;
-     padding-left: 10px;
+     padding-left: 20px;
+    padding-left: 10px;
 }
 
 ol li {
