@@ -104,6 +104,10 @@ img {
   clear: left;
 }
 
+hr{
+clear: left, right;    
+}
+
 .aside {
   color: #9999;
 }
