@@ -214,4 +214,6 @@ div.content {
   }
 }
 
-.footer {clear: both;}
+.footer {clear: both;
+ position: absolute;
+  bottom: 10px;}
