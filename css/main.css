@@ -178,8 +178,7 @@ text-transform: uppercase;
  text-decoration: none;
 border-top: 5px solid white;
 line-height: 1em;
-    float: left;
-    clear: left;
+    clear: right;
     
 
 }
