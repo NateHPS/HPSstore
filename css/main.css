@@ -157,3 +157,39 @@ iframe
 width: 70%;
 height: 850px;
 }
+
+/* The side navigation menu */
+.sidebar {
+ margin: 0;
+ padding: 0;
+ width: 200px;
+ background-color: #e9ad02;
+ position: fixed;
+ height: 100%;
+ overflow: auto;
+font-size: 20px;
+font-family: 'VT323', monospace;}
+/* Sidebar links */
+.sidebar a {
+ display: block;
+ color: #320032;
+text-transform: uppercase;
+ padding: 16px;
+ text-decoration: none;
+border-top: 5px solid white;
+line-height: 1em;
+
+}
+
+/* Active/current link */
+.sidebar a.active {
+ background-color: #04AA6D;
+ color: white;
+}
+
+/* Links on mouse-over */
+.sidebar a:hover:not(.active) {
+ background-color: #320032;
+ color: white;
+
+}
