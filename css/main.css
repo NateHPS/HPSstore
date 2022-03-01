@@ -184,7 +184,7 @@ height: 850px;
 
 /* Links on mouse-over */
 .sidebar a:hover:not(.active) {
-  background-color: #555;
+  background-color: #f05323;
   color: white;
 }
 
