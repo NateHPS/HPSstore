@@ -166,6 +166,7 @@ height: 850px;
   position: fixed;
   height: 100%;
   overflow: auto;
+    clear: both;
 }
 
 /* Sidebar links */
@@ -193,6 +194,7 @@ div.content {
   margin-left: 200px;
   padding: 1px 16px;
   height: 1000px;
+    clear: both;
 }
 
 /* On screens that are less than 700px wide, make the sidebar into a topbar */
