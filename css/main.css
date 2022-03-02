@@ -169,6 +169,11 @@ height: 850px;
   height: 100%;
   overflow: auto;
 }
+.sidebar h4{
+     display: block;
+  color: black;
+    padding: 16px;
+}
 
 /* Sidebar links */
 .sidebar a {
